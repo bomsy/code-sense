@@ -1,4 +1,4 @@
-jsIntelliSense
+CodeInSense
 ==============
 
 Enables javascript intellisense any code editor.
@@ -8,6 +8,13 @@ Enables javascript intellisense any code editor.
 * Provide information useful to developer about the objects, properties, parameters as code is written in the editor.
 * Bringing api documentation into the code editor.
 * Visual studio Intellisense http://msdn.microsoft.com/en-us/library/hcw1s69b(v=vs.110).aspx
+
+## Useful Research Resources
+* [Scripted - Type Inferencing](https://github.com/scripted-editor/scripted/wiki/Architecture#wiki-Inferencing)
+* [Esprima - AutoComplete](http://esprima.org/demo/autocomplete.html)
+* [Microsoft - javascript intellisence](http://msdn.microsoft.com/en-us/library/vstudio/bb385682.aspx)
+* [Microsoft - js Intellisense](http://msdn.microsoft.com/en-us/library/vstudio/hh874692.aspx)
+* [Codemirror - javascript hint](http://codemirror.net/addon/hint/javascript-hint.js)
 
 ## Features
 * The types of information to be provides are
