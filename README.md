@@ -16,6 +16,7 @@ Enables javascript intellisense any code editor.
 * [Microsoft - js Intellisense](http://msdn.microsoft.com/en-us/library/vstudio/hh874692.aspx)
 * [Codemirror - javascript hint](http://codemirror.net/addon/hint/javascript-hint.js)
 * [Scripted/Orion - ContentAssist.js](https://github.com/scripted-editor/scripted/blob/master/client/scripts/orion/editor/contentAssist.js)
+* [Tern](http://ternjs.net/doc/manual.html)
 
 ## Features
 * The types of information to be provides are
